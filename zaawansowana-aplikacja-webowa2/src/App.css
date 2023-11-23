@@ -1,0 +1,30 @@
+.App {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+
+
+.titleBox {
+    font-family: Helvetica;
+    padding: 40px;
+    font-size: 40px;
+    background-color: lavender;
+}
+
+.formBox {
+    border: 1px dotted black;
+    padding: 40px;
+}
+
+p {
+    font-family: Helvetica;
+}
+
+.submitButton {
+    margin: 10px auto;
+    display: flex;
+    justify-content: center;
+
+}
